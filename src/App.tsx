@@ -199,6 +199,13 @@ function App() {
           <p>Built a full-stack web application with C# ASP.NET Core and SQLite featuring role-based authentication for users, mentors, and admins. Includes a web scraper for auto-populating a community events board, real-time mentor chat, journaling, and profile management.</p>
           <a href="https://github.com/Jayden-gts/Shifu---Wellness"><img className='logo' src={githubLogo} alt="github logo" /></a>
         </div>
+        <div className='aboutMe'>
+          <h3>This website!</h3>
+          <p>(TypeScript, React)</p>
+          <p>This website is all about me, featuring a cool fractal background that reacts to your scroll! Built with React and TypeScript, it showcases my projects, skills, and interests in a sleek, responsive design. Check out the code on GitHub!
+          </p>
+          <a href="https://github.com/Jayden-gts/Shifu---Wellness"><img className='logo' src={githubLogo} alt="github logo" /></a>
+        </div>
         <div className='aboutMe' id="contact">
           <h2>Contact Me!</h2>
           <p>Email: otesjayden@live.com</p>
