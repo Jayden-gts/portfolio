@@ -204,7 +204,7 @@ function App() {
           <p>(TypeScript, React)</p>
           <p>This website is all about me, featuring a cool fractal background that reacts to your scroll! Built with React and TypeScript, it showcases my projects, skills, and interests in a sleek, responsive design. Check out the code on GitHub!
           </p>
-          <a href="https://github.com/Jayden-gts/Shifu---Wellness"><img className='logo' src={githubLogo} alt="github logo" /></a>
+          <a href="https://github.com/Jayden-gts/portfolio"><img className='logo' src={githubLogo} alt="github logo" /></a>
         </div>
         <div className='aboutMe' id="contact">
           <h2>Contact Me!</h2>
