@@ -10,6 +10,7 @@
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
+  color: black;
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
@@ -50,7 +51,12 @@
   border-radius: 12px;
   padding: 2rem;
   color: black;
-  border: black solid 1px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.title {
+  font-weight: bold;
+  color: black;
 }
 
 .logo {

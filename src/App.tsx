@@ -139,13 +139,13 @@ function App() {
         <a href="#contact">Contact Me</a>
       </div>
       <div style={{ position: 'relative', zIndex: 1, marginBottom: '4rem' }}>
-        <h1>Jayden Seto</h1>
-        <p>Student | Computer Science Major @ SheridanCollege | Software Developer</p>
+        <h1 className='title'>Jayden Seto</h1>
+        <p className='title'>Student | Computer Science Major @ SheridanCollege | Software Developer</p>
       </div>
       <div style={{display: 'flex', gap: '2rem', justifyContent: 'space-around', flexWrap: 'wrap', position: 'relative', zIndex: 1}}>
       <div className="aboutMe" id="about">
-        <h2>About Me</h2>
-        <p>Hello! I'm Jayden Seto, a passionate Computer Science student with a strong interest in software development and web technologies. I enjoy building innovative applications and solving complex problems through code.</p>
+        <h2 className='title'>About Me</h2>
+        <p className='title'>Hello! I'm Jayden Seto, a passionate Computer Science student with a strong interest in software development and web technologies. I enjoy building innovative applications and solving complex problems through code.</p>
       </div>
       <div className="aboutMe">
         <h2>Programming Languages</h2>
@@ -184,7 +184,7 @@ function App() {
         </div>
 
         <div  id="projects">
-          <h1> Wanna see some projects?</h1>
+          <h1 className='title'> Wanna see some projects?</h1>
         </div>
 
         <div className='aboutMe'>
